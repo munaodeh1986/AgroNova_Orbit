@@ -10,8 +10,9 @@ This project was developed for the **NASA Space Apps Challenge 2026**, for the c
 
 ## Live Demo
 
-Open `https://munaodeh1986.github.io/AgroNova_Orbit/` directly in any modern web browser.
+## Live Demo
 
+[Open AgroNova Orbit Live Demo](https://munaodeh1986.github.io/AgroNova_Orbit/)
 No installation, build step, or server is required.
 
 ---
