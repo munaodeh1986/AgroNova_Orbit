@@ -4,13 +4,13 @@
 
 AgroNova Orbit is a community-driven smart farming decision-support system that helps farmers adapt crop rotations and protect soil health under a changing climate. It combines local field measurements from an ESP32-based sensor node with open NASA Earth-observation data to turn complex environmental information into clear, practical, and transparent decision support.
 
-This project was developed for the **NASA Space Apps Challenge 2026 — Riyadh**, for the challenge **Adapting Farms with NASA Data**.
+This project was developed for the **NASA Space Apps Challenge 2026**, for the challenge **Feild- shift :Adapting Farms with NASA Data**.
 
 ---
 
 ## Live Demo
 
-Open `index.html` directly in any modern web browser.
+Open `https://munaodeh1986.github.io/AgroNova_Orbit/` directly in any modern web browser.
 
 No installation, build step, or server is required.
 
